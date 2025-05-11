@@ -22,7 +22,7 @@ This is a simple Flask application that demonstrates how to implement OAuth auth
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/flask-auth.git
+git clone https://github.com/helaouichourouk/flask-auth.git
 cd flask-auth
 ```
 
