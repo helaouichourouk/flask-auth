@@ -1,0 +1,49 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Flask instance folder
+instance/
+
+# Flask specific
+*.log
+*.pot
+*.py[cod]
+
+# Coverage reports
+.coverage
+*.cover
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# .env file for environment variables
+.env
+
+# Flask secret key or session cookie data
+*.key
+
+# Docker files
+docker-compose.yml
+Dockerfile
+
+# Test and cache files
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
